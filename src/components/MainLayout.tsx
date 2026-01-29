@@ -15,6 +15,7 @@ import {
   MenuUnfoldOutlined,
   MenuFoldOutlined
 } from '@ant-design/icons';
+import { CloudOutlined, HeatMapOutlined } from '@ant-design/icons';
 import { Outlet, useNavigate, useLocation, Link } from 'react-router-dom';
 import type { MenuProps } from 'antd';
 
@@ -37,7 +38,10 @@ function getItem(
 }
 
 const items: MenuItem[] = [
-  getItem('数据产品', '/products', <AppstoreOutlined />),
+  getItem('数据产品', '/products', <AppstoreOutlined />, [
+    getItem('暴雨风险', '/products/rain', <CloudOutlined />),
+    getItem('降雨地图', '/products/rain-map', <HeatMapOutlined />),
+  ]),
   getItem('系统管理', '/sys', <SettingOutlined />, [
     getItem('用户管理', '/sys/user', <UserOutlined />),
     getItem('角色管理', '/sys/role', <TeamOutlined />),
@@ -53,6 +57,8 @@ const items: MenuItem[] = [
 
 const breadcrumbNameMap: Record<string, string> = {
   '/products': '数据产品',
+  '/products/rain': '暴雨风险',
+  '/products/rain-map': '降雨地图',
   '/sys': '系统管理',
   '/sys/user': '用户管理',
   '/sys/role': '角色管理',
