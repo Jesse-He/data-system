@@ -12,6 +12,7 @@ import LogManage from '../pages/sys/LogManage';
 import ProductList from '../pages/products/ProductList';
 import HeavyRainRisk from '../pages/products/HeavyRainRisk';
 import RainMap from '../pages/products/RainMap';
+import WindSpeedMap from '../pages/products/WindSpeedMap';
 
 const router = createBrowserRouter([
   {
@@ -22,6 +23,7 @@ const router = createBrowserRouter([
       { path: 'products', element: <ProductList /> },
       { path: 'products/rain', element: <HeavyRainRisk /> },
       { path: 'products/rain-map', element: <RainMap /> },
+      { path: 'products/wind-map', element: <WindSpeedMap /> },
       {
         path: 'sys',
         children: [
