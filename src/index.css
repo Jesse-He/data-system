@@ -54,6 +54,18 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+/* Leaflet: remove focus rectangles on interactive paths/anchors */
+.leaflet-container .leaflet-interactive:focus {
+  outline: none;
+}
+.leaflet-container a:focus {
+  outline: none;
+}
+/* Leaflet tooltip: no border box on hover/click */
+.leaflet-tooltip {
+  border: none;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;

@@ -13,6 +13,7 @@ import ProductList from '../pages/products/ProductList';
 import HeavyRainRisk from '../pages/products/HeavyRainRisk';
 import RainMap from '../pages/products/RainMap';
 import WindSpeedMap from '../pages/products/WindSpeedMap';
+import GBAMap from '../pages/products/GBAMap';
 
 const router = createBrowserRouter([
   {
@@ -24,6 +25,7 @@ const router = createBrowserRouter([
       { path: 'products/rain', element: <HeavyRainRisk /> },
       { path: 'products/rain-map', element: <RainMap /> },
       { path: 'products/wind-map', element: <WindSpeedMap /> },
+      { path: 'products/gba-map', element: <GBAMap /> },
       {
         path: 'sys',
         children: [
