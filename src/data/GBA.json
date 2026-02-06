@@ -1,0 +1,518 @@
+[
+  {
+    "name": "粤港澳大湾区",
+    "treeID": "1",
+    "parent": null,
+    "treeName": "粤港澳大湾区_1"
+  },
+  {
+    "name": "肇庆市",
+    "treeID": "1-1",
+    "parent": "1",
+    "treeName": "肇庆市_1-1"
+  },
+  {
+    "name": "端州区",
+    "treeID": "1-1-1",
+    "parent": "1-1",
+    "treeName": "端州区_1-1-1"
+  },
+  {
+    "name": "鼎湖区",
+    "treeID": "1-1-2",
+    "parent": "1-1",
+    "treeName": "鼎湖区_1-1-2"
+  },
+  {
+    "name": "高要区",
+    "treeID": "1-1-3",
+    "parent": "1-1",
+    "treeName": "高要区_1-1-3"
+  },
+  {
+    "name": "广宁县",
+    "treeID": "1-1-4",
+    "parent": "1-1",
+    "treeName": "广宁县_1-1-4"
+  },
+  {
+    "name": "怀集县",
+    "treeID": "1-1-5",
+    "parent": "1-1",
+    "treeName": "怀集县_1-1-5"
+  },
+  {
+    "name": "封开县",
+    "treeID": "1-1-6",
+    "parent": "1-1",
+    "treeName": "封开县_1-1-6"
+  },
+  {
+    "name": "德庆县",
+    "treeID": "1-1-7",
+    "parent": "1-1",
+    "treeName": "德庆县_1-1-7"
+  },
+  {
+    "name": "四会市",
+    "treeID": "1-1-8",
+    "parent": "1-1",
+    "treeName": "四会市_1-1-8"
+  },
+  {
+    "name": "江门市",
+    "treeID": "1-2",
+    "parent": "1",
+    "treeName": "江门市_1-2"
+  },
+  {
+    "name": "蓬江区",
+    "treeID": "1-2-1",
+    "parent": "1-2",
+    "treeName": "蓬江区_1-2-1"
+  },
+  {
+    "name": "江海区",
+    "treeID": "1-2-2",
+    "parent": "1-2",
+    "treeName": "江海区_1-2-2"
+  },
+  {
+    "name": "新会区",
+    "treeID": "1-2-3",
+    "parent": "1-2",
+    "treeName": "新会区_1-2-3"
+  },
+  {
+    "name": "台山市",
+    "treeID": "1-2-4",
+    "parent": "1-2",
+    "treeName": "台山市_1-2-4"
+  },
+  {
+    "name": "开平市",
+    "treeID": "1-2-5",
+    "parent": "1-2",
+    "treeName": "开平市_1-2-5"
+  },
+  {
+    "name": "鹤山市",
+    "treeID": "1-2-6",
+    "parent": "1-2",
+    "treeName": "鹤山市_1-2-6"
+  },
+  {
+    "name": "恩平市",
+    "treeID": "1-2-7",
+    "parent": "1-2",
+    "treeName": "恩平市_1-2-7"
+  },
+  {
+    "name": "中山市",
+    "treeID": "1-3",
+    "parent": "1",
+    "treeName": "中山市_1-3"
+  },
+  {
+    "name": "东莞市",
+    "treeID": "1-4",
+    "parent": "1",
+    "treeName": "东莞市_1-4"
+  },
+  {
+    "name": "惠州市",
+    "treeID": "1-5",
+    "parent": "1",
+    "treeName": "惠州市_1-5"
+  },
+  {
+    "name": "惠城区",
+    "treeID": "1-5-1",
+    "parent": "1-5",
+    "treeName": "惠城区_1-5-1"
+  },
+  {
+    "name": "惠阳区",
+    "treeID": "1-5-2",
+    "parent": "1-5",
+    "treeName": "惠阳区_1-5-2"
+  },
+  {
+    "name": "博罗县",
+    "treeID": "1-5-3",
+    "parent": "1-5",
+    "treeName": "博罗县_1-5-3"
+  },
+  {
+    "name": "惠东县",
+    "treeID": "1-5-4",
+    "parent": "1-5",
+    "treeName": "惠东县_1-5-4"
+  },
+  {
+    "name": "龙门县",
+    "treeID": "1-5-5",
+    "parent": "1-5",
+    "treeName": "龙门县_1-5-5"
+  },
+  {
+    "name": "佛山市",
+    "treeID": "1-6",
+    "parent": "1",
+    "treeName": "佛山市_1-6"
+  },
+  {
+    "name": "禅城区",
+    "treeID": "1-6-1",
+    "parent": "1-6",
+    "treeName": "禅城区_1-6-1"
+  },
+  {
+    "name": "南海区",
+    "treeID": "1-6-2",
+    "parent": "1-6",
+    "treeName": "南海区_1-6-2"
+  },
+  {
+    "name": "顺德区",
+    "treeID": "1-6-3",
+    "parent": "1-6",
+    "treeName": "顺德区_1-6-3"
+  },
+  {
+    "name": "三水区",
+    "treeID": "1-6-4",
+    "parent": "1-6",
+    "treeName": "三水区_1-6-4"
+  },
+  {
+    "name": "高明区",
+    "treeID": "1-6-5",
+    "parent": "1-6",
+    "treeName": "高明区_1-6-5"
+  },
+  {
+    "name": "珠海市",
+    "treeID": "1-7",
+    "parent": "1",
+    "treeName": "珠海市_1-7"
+  },
+  {
+    "name": "香洲区",
+    "treeID": "1-7-1",
+    "parent": "1-7",
+    "treeName": "香洲区_1-7-1"
+  },
+  {
+    "name": "斗门区",
+    "treeID": "1-7-2",
+    "parent": "1-7",
+    "treeName": "斗门区_1-7-2"
+  },
+  {
+    "name": "金湾区",
+    "treeID": "1-7-3",
+    "parent": "1-7",
+    "treeName": "金湾区_1-7-3"
+  },
+  {
+    "name": "广州市",
+    "treeID": "1-8",
+    "parent": "1",
+    "treeName": "广州市_1-8"
+  },
+  {
+    "name": "荔湾区",
+    "treeID": "1-8-1",
+    "parent": "1-8",
+    "treeName": "荔湾区_1-8-1"
+  },
+  {
+    "name": "越秀区",
+    "treeID": "1-8-2",
+    "parent": "1-8",
+    "treeName": "越秀区_1-8-2"
+  },
+  {
+    "name": "海珠区",
+    "treeID": "1-8-3",
+    "parent": "1-8",
+    "treeName": "海珠区_1-8-3"
+  },
+  {
+    "name": "天河区",
+    "treeID": "1-8-4",
+    "parent": "1-8",
+    "treeName": "天河区_1-8-4"
+  },
+  {
+    "name": "白云区",
+    "treeID": "1-8-5",
+    "parent": "1-8",
+    "treeName": "白云区_1-8-5"
+  },
+  {
+    "name": "黄埔区",
+    "treeID": "1-8-6",
+    "parent": "1-8",
+    "treeName": "黄埔区_1-8-6"
+  },
+  {
+    "name": "番禺区",
+    "treeID": "1-8-7",
+    "parent": "1-8",
+    "treeName": "番禺区_1-8-7"
+  },
+  {
+    "name": "花都区",
+    "treeID": "1-8-8",
+    "parent": "1-8",
+    "treeName": "花都区_1-8-8"
+  },
+  {
+    "name": "南沙区",
+    "treeID": "1-8-9",
+    "parent": "1-8",
+    "treeName": "南沙区_1-8-9"
+  },
+  {
+    "name": "从化区",
+    "treeID": "1-8-10",
+    "parent": "1-8",
+    "treeName": "从化区_1-8-10"
+  },
+  {
+    "name": "增城区",
+    "treeID": "1-8-11",
+    "parent": "1-8",
+    "treeName": "增城区_1-8-11"
+  },
+  {
+    "name": "深圳市",
+    "treeID": "1-9",
+    "parent": "1",
+    "treeName": "深圳市_1-9"
+  },
+  {
+    "name": "罗湖区",
+    "treeID": "1-9-1",
+    "parent": "1-9",
+    "treeName": "罗湖区_1-9-1"
+  },
+  {
+    "name": "福田区",
+    "treeID": "1-9-2",
+    "parent": "1-9",
+    "treeName": "福田区_1-9-2"
+  },
+  {
+    "name": "南山区",
+    "treeID": "1-9-3",
+    "parent": "1-9",
+    "treeName": "南山区_1-9-3"
+  },
+  {
+    "name": "宝安区",
+    "treeID": "1-9-4",
+    "parent": "1-9",
+    "treeName": "宝安区_1-9-4"
+  },
+  {
+    "name": "龙岗区",
+    "treeID": "1-9-5",
+    "parent": "1-9",
+    "treeName": "龙岗区_1-9-5"
+  },
+  {
+    "name": "盐田区",
+    "treeID": "1-9-6",
+    "parent": "1-9",
+    "treeName": "盐田区_1-9-6"
+  },
+  {
+    "name": "龙华区",
+    "treeID": "1-9-7",
+    "parent": "1-9",
+    "treeName": "龙华区_1-9-7"
+  },
+  {
+    "name": "坪山区",
+    "treeID": "1-9-8",
+    "parent": "1-9",
+    "treeName": "坪山区_1-9-8"
+  },
+  {
+    "name": "光明区",
+    "treeID": "1-9-9",
+    "parent": "1-9",
+    "treeName": "光明区_1-9-9"
+  },
+  {
+    "name": "澳门特别行政区",
+    "treeID": "1-10",
+    "parent": "1",
+    "treeName": "澳门特别行政区_1-10"
+  },
+  {
+    "name": "花地玛堂区",
+    "treeID": "1-10-1",
+    "parent": "1-10",
+    "treeName": "花地玛堂区_1-10-1"
+  },
+  {
+    "name": "花王堂区",
+    "treeID": "1-10-2",
+    "parent": "1-10",
+    "treeName": "花王堂区_1-10-2"
+  },
+  {
+    "name": "望德堂区",
+    "treeID": "1-10-3",
+    "parent": "1-10",
+    "treeName": "望德堂区_1-10-3"
+  },
+  {
+    "name": "大堂区",
+    "treeID": "1-10-4",
+    "parent": "1-10",
+    "treeName": "大堂区_1-10-4"
+  },
+  {
+    "name": "风顺堂区",
+    "treeID": "1-10-5",
+    "parent": "1-10",
+    "treeName": "风顺堂区_1-10-5"
+  },
+  {
+    "name": "嘉模堂区",
+    "treeID": "1-10-6",
+    "parent": "1-10",
+    "treeName": "嘉模堂区_1-10-6"
+  },
+  {
+    "name": "路凼填海区",
+    "treeID": "1-10-7",
+    "parent": "1-10",
+    "treeName": "路凼填海区_1-10-7"
+  },
+  {
+    "name": "圣方济各堂区",
+    "treeID": "1-10-8",
+    "parent": "1-10",
+    "treeName": "圣方济各堂区_1-10-8"
+  },
+  {
+    "name": "香港特别行政区",
+    "treeID": "1-11",
+    "parent": "1",
+    "treeName": "香港特别行政区_1-11"
+  },
+  {
+    "name": "中西区",
+    "treeID": "1-11-1",
+    "parent": "1-11",
+    "treeName": "中西区_1-11-1"
+  },
+  {
+    "name": "湾仔区",
+    "treeID": "1-11-2",
+    "parent": "1-11",
+    "treeName": "湾仔区_1-11-2"
+  },
+  {
+    "name": "东区",
+    "treeID": "1-11-3",
+    "parent": "1-11",
+    "treeName": "东区_1-11-3"
+  },
+  {
+    "name": "南区",
+    "treeID": "1-11-4",
+    "parent": "1-11",
+    "treeName": "南区_1-11-4"
+  },
+  {
+    "name": "油尖旺区",
+    "treeID": "1-11-5",
+    "parent": "1-11",
+    "treeName": "油尖旺区_1-11-5"
+  },
+  {
+    "name": "深水埗区",
+    "treeID": "1-11-6",
+    "parent": "1-11",
+    "treeName": "深水埗区_1-11-6"
+  },
+  {
+    "name": "九龙城区",
+    "treeID": "1-11-7",
+    "parent": "1-11",
+    "treeName": "九龙城区_1-11-7"
+  },
+  {
+    "name": "黄大仙区",
+    "treeID": "1-11-8",
+    "parent": "1-11",
+    "treeName": "黄大仙区_1-11-8"
+  },
+  {
+    "name": "观塘区",
+    "treeID": "1-11-9",
+    "parent": "1-11",
+    "treeName": "观塘区_1-11-9"
+  },
+  {
+    "name": "荃湾区",
+    "treeID": "1-11-10",
+    "parent": "1-11",
+    "treeName": "荃湾区_1-11-10"
+  },
+  {
+    "name": "屯门区",
+    "treeID": "1-11-11",
+    "parent": "1-11",
+    "treeName": "屯门区_1-11-11"
+  },
+  {
+    "name": "元朗区",
+    "treeID": "1-11-12",
+    "parent": "1-11",
+    "treeName": "元朗区_1-11-12"
+  },
+  {
+    "name": "北区",
+    "treeID": "1-11-13",
+    "parent": "1-11",
+    "treeName": "北区_1-11-13"
+  },
+  {
+    "name": "大埔区",
+    "treeID": "1-11-14",
+    "parent": "1-11",
+    "treeName": "大埔区_1-11-14"
+  },
+  {
+    "name": "西贡区",
+    "treeID": "1-11-15",
+    "parent": "1-11",
+    "treeName": "西贡区_1-11-15"
+  },
+  {
+    "name": "沙田区",
+    "treeID": "1-11-16",
+    "parent": "1-11",
+    "treeName": "沙田区_1-11-16"
+  },
+  {
+    "name": "葵青区",
+    "treeID": "1-11-17",
+    "parent": "1-11",
+    "treeName": "葵青区_1-11-17"
+  },
+  {
+    "name": "离岛区",
+    "treeID": "1-11-18",
+    "parent": "1-11",
+    "treeName": "离岛区_1-11-18"
+  }
+]
